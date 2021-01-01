@@ -1,6 +1,9 @@
 <application>
   <component name="MarkdownApplicationSettings">
-    <MarkdownCssSettings />
-    <MarkdownPreviewSettings UseGrayscaleRendering="false" VerticalSplit="false" />
+    <MarkdownPreviewSettings VerticalSplit="false" />
+    <enabledExtensions>
+      <entry key="MermaidLanguageExtension" value="false" />
+      <entry key="PlantUMLLanguageExtension" value="false" />
+    </enabledExtensions>
   </component>
 </application>

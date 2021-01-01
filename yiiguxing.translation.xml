@@ -12,13 +12,15 @@
       </map>
     </option>
   </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1609472520078" />
+  </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
       <google-translate>
         <option name="primaryLanguage" value="CHINESE" />
       </google-translate>
     </option>
-    <option name="ignoreRegExp" value="" />
     <option name="keepFormat" value="true" />
   </component>
 </application>

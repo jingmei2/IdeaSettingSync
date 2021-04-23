@@ -82,11 +82,6 @@
                       <FeaturePluginData displayName="Kotlin" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" bundled="true" />
                     </value>
                   </entry>
-                  <entry key="Jms Messenger Configuration">
-                    <value>
-                      <FeaturePluginData displayName="Jms" pluginName="Jms messenger" pluginId="jms-messenger" />
-                    </value>
-                  </entry>
                   <entry key="KotlinStandaloneScriptRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Kotlin script" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" bundled="true" />

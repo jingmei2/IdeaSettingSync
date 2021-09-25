@@ -1,5 +1,6 @@
 <application>
   <component name="EndpointStore">
+    <option name="edasEndpoint" value="" />
     <option name="proxyHost" value="" />
     <option name="proxyType" value="HTTP代理" />
   </component>

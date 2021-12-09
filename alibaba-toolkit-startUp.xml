@@ -8,6 +8,7 @@
     <entry projectPath="$USER_HOME$/workspace/nacos-docker" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/workspace/spring-boot-examples" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/workspace/springboot-seckill" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/workspace/test" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/workspace/zftal-sjyt" startUpFlag="FIRST" />
   </component>
 </application>

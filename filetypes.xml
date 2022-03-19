@@ -4,6 +4,8 @@
     <extensionMap>
       <mapping pattern="zoo.cfg" type="AUTO_DETECTED" />
       <mapping ext="env" type="AUTO_DETECTED" />
+      <removed_mapping ext="es" type="ActionScript" />
+      <mapping ext="es" type="Elasticsearch" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />

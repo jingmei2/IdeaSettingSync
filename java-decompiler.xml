@@ -1,0 +1,5 @@
+<application>
+  <component name="jd.intellij.settings">
+    <option name="useIdeaDecompiler" value="true" />
+  </component>
+</application>

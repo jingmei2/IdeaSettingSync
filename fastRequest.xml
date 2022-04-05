@@ -74,7 +74,12 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="originUrl" value="" />
+        <option name="className" value="com.cxytiandi.sharding.controller.UserController" />
+        <option name="method" value="list" />
+        <option name="methodDescription" value="" />
+        <option name="methodType" value="GET" />
+        <option name="module" value="sjdbc-sharding-table-read-write-springboot" />
+        <option name="originUrl" value="/users" />
       </ParamGroup>
     </option>
     <option name="randomStringLength" value="5" />

@@ -965,9 +965,7 @@
         </entry>
         <entry key="idea.plugin.protoeditor">
           <value>
-            <PluginData>
-              <option name="enabled" value="false" />
-            </PluginData>
+            <PluginData />
           </value>
         </entry>
         <entry key="intellij.indexing.shared">

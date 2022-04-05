@@ -525,7 +525,6 @@
                   <option value="com.intellij.modules.lang" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -553,9 +552,7 @@
         </entry>
         <entry key="com.intellij.javaee.gradle">
           <value>
-            <PluginData>
-              <option name="enabled" value="false" />
-            </PluginData>
+            <PluginData />
           </value>
         </entry>
         <entry key="com.intellij.micronaut">
@@ -966,6 +963,13 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="idea.plugin.protoeditor">
+          <value>
+            <PluginData>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
         <entry key="intellij.indexing.shared">
           <value>
             <PluginData>
@@ -1020,7 +1024,6 @@
                   <option value="org.intellij.plugins.markdown" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -1071,6 +1074,18 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="mobi.hsz.idea.gitignore">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.vcs" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="net.vektah.codeglance">
           <value>
             <PluginData>
@@ -1108,9 +1123,7 @@
         </entry>
         <entry key="org.intellij.groovy">
           <value>
-            <PluginData>
-              <option name="enabled" value="false" />
-            </PluginData>
+            <PluginData />
           </value>
         </entry>
         <entry key="org.intellij.plugins.junitgen">
@@ -1182,7 +1195,6 @@
                   <option value="com.intellij.java" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -1196,7 +1208,6 @@
                   <option value="org.jetbrains.idea.gradle.dsl" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -1211,7 +1222,6 @@
                   <option value="org.jetbrains.plugins.gradle" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -1288,9 +1298,7 @@
         </entry>
         <entry key="org.jetbrains.security.package-checker">
           <value>
-            <PluginData>
-              <option name="enabled" value="false" />
-            </PluginData>
+            <PluginData />
           </value>
         </entry>
         <entry key="org.toml.lang">

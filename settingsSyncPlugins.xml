@@ -412,7 +412,9 @@
         </entry>
         <entry key="com.ccnode.codegenerator.mybatis.generator">
           <value>
-            <PluginData />
+            <PluginData>
+              <option name="enabled" value="false" />
+            </PluginData>
           </value>
         </entry>
         <entry key="com.chrisrm.idea.MaterialThemeUI">

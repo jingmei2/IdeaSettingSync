@@ -74,12 +74,21 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.cxytiandi.sharding.controller.UserController" />
-        <option name="method" value="list" />
-        <option name="methodDescription" value="" />
-        <option name="methodType" value="GET" />
-        <option name="module" value="sjdbc-sharding-table-read-write-springboot" />
-        <option name="originUrl" value="" />
+        <option name="bodyParamMap">
+          <map>
+            <entry key="userBO">
+              <value>
+                <Object />
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="className" value="cn.zealon.readingcloud.account.controller.UserController" />
+        <option name="method" value="register" />
+        <option name="methodDescription" value="注册用户" />
+        <option name="methodType" value="POST" />
+        <option name="module" value="reading-cloud-account" />
+        <option name="originUrl" value="account/user/register" />
       </ParamGroup>
     </option>
     <option name="randomStringLength" value="5" />

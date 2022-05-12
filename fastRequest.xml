@@ -88,7 +88,7 @@
         <option name="methodDescription" value="注册用户" />
         <option name="methodType" value="POST" />
         <option name="module" value="reading-cloud-account" />
-        <option name="originUrl" value="account/user/register" />
+        <option name="originUrl" value="" />
       </ParamGroup>
     </option>
     <option name="randomStringLength" value="5" />

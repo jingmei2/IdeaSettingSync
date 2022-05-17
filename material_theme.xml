@@ -2,9 +2,11 @@
   <component name="MaterialThemeConfig">
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
+    <option name="settingsSelectedTab" value="4" />
     <option name="accentColor" value="3967d6" />
     <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="1a6eaf65:170b7d0d07a:-8000" />
     <option name="version" value="7.5.0" />
+    <option name="expUIEnabled" value="true" />
   </component>
 </application>

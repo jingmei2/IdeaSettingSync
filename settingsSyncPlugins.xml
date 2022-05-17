@@ -129,6 +129,7 @@
                   <option value="com.intellij.modules.lang" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -423,7 +424,6 @@
                   <option value="com.intellij.modules.platform" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -573,6 +573,13 @@
         <entry key="com.intellij.javaee.gradle">
           <value>
             <PluginData />
+          </value>
+        </entry>
+        <entry key="com.intellij.laf.macos">
+          <value>
+            <PluginData>
+              <option name="enabled" value="false" />
+            </PluginData>
           </value>
         </entry>
         <entry key="com.intellij.micronaut">
@@ -924,6 +931,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.vermouthx.xcode-theme">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.zhaow.restful.toolkit">
           <value>
             <PluginData>
@@ -1181,6 +1199,13 @@
             <PluginData />
           </value>
         </entry>
+        <entry key="org.intellij.intelliLang">
+          <value>
+            <PluginData>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
         <entry key="org.intellij.plugins.junitgen">
           <value>
             <PluginData />
@@ -1353,7 +1378,9 @@
         </entry>
         <entry key="org.jetbrains.security.package-checker">
           <value>
-            <PluginData />
+            <PluginData>
+              <option name="enabled" value="false" />
+            </PluginData>
           </value>
         </entry>
         <entry key="org.toml.lang">

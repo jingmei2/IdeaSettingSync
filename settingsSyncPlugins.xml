@@ -77,6 +77,20 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="HtmlTools">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.ultimate" />
+                  <option value="com.intellij.modules.xml" />
+                  <option value="com.intellij.platform.images" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
         <entry key="JBoss">
           <value>
             <PluginData>
@@ -156,6 +170,7 @@
                   <option value="com.intellij.modules.xml" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -243,6 +258,13 @@
                   <option value="com.intellij.modules.java" />
                 </set>
               </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="W3Validators">
+          <value>
+            <PluginData>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -436,9 +458,7 @@
         </entry>
         <entry key="com.dubreuia">
           <value>
-            <PluginData>
-              <option name="enabled" value="false" />
-            </PluginData>
+            <PluginData />
           </value>
         </entry>
         <entry key="com.github.copilot">
@@ -474,6 +494,7 @@
                   <option value="com.intellij.properties" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -872,6 +893,13 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.jetbrains.restClient">
+          <value>
+            <PluginData>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.jetbrains.space">
           <value>
             <PluginData>
@@ -1040,7 +1068,9 @@
         </entry>
         <entry key="idea.plugin.protoeditor">
           <value>
-            <PluginData />
+            <PluginData>
+              <option name="enabled" value="false" />
+            </PluginData>
           </value>
         </entry>
         <entry key="intellij.indexing.shared">

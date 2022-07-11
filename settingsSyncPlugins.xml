@@ -104,6 +104,18 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="JFormDesigner">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
         <entry key="JRebelPlugin">
           <value>
             <PluginData>
@@ -322,7 +334,9 @@
         </entry>
         <entry key="cn.yiiguxing.plugin.translate">
           <value>
-            <PluginData />
+            <PluginData>
+              <option name="enabled" value="false" />
+            </PluginData>
           </value>
         </entry>
         <entry key="com.alayouni.ansiHighlight">
@@ -414,6 +428,7 @@
                   <option value="com.intellij.modules.platform" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -445,6 +460,19 @@
                   <option value="com.intellij.modules.platform" />
                 </set>
               </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.codestream.jetbrains-codestream">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="Git4Idea" />
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -493,6 +521,18 @@
                   <option value="com.intellij.properties" />
                 </set>
               </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.imuxuan.core.search">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -585,7 +625,6 @@
                   <option value="com.intellij.javaee" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -940,7 +979,6 @@
                   <option value="com.intellij.modules.lang" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -1152,6 +1190,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="izhangzhihao.rainbow.brackets">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="jd-intellij">
           <value>
             <PluginData>
@@ -1236,7 +1285,9 @@
         </entry>
         <entry key="org.intellij.groovy">
           <value>
-            <PluginData />
+            <PluginData>
+              <option name="enabled" value="false" />
+            </PluginData>
           </value>
         </entry>
         <entry key="org.intellij.intelliLang">
@@ -1347,6 +1398,7 @@
                   <option value="org.jetbrains.plugins.gradle" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>

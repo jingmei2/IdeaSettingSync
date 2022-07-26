@@ -88,9 +88,9 @@
         <option name="methodDescription" value="注册用户" />
         <option name="methodType" value="POST" />
         <option name="module" value="reading-cloud-account" />
-        <option name="originUrl" value="" />
       </ParamGroup>
     </option>
     <option name="randomStringLength" value="5" />
+    <option name="statisticsDate" value="2022-07-27 01:55:37" />
   </component>
 </application>
